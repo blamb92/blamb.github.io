@@ -1,5 +1,5 @@
 # blamb92.github.io
-Map of my Favorite Locations
+Map of my Favorite Locations:
 UCSB,
 Boba Cove,
 Cinemark 22,
